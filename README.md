@@ -1,11 +1,9 @@
 ### Hi, Welcome to my profile!
 
-My name is Peter and I am a 2023 computer science graduate from AUT and I majored in Computational Intelligence,
+My name is Peter and I am a 2023 computer science graduate from AUT and I majored in Machine Learning and Data science.
 I've also delved into software development on my own throughout my time in univerisity.
 
 Currently looking for opportunities in NZ/AUS.
-
-I'm interested in working with all things data and creating interesting and useful products to make life a little easier for everybody.
 
 Experience in:
 - ReactJS ⚛️
